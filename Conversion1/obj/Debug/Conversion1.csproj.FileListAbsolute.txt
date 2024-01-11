@@ -1,0 +1,33 @@
+C:\Users\Mahi\source\repos\Conversion1\Conversion1\bin\Debug\Conversion1.exe.config
+C:\Users\Mahi\source\repos\Conversion1\Conversion1\bin\Debug\Conversion1.exe
+C:\Users\Mahi\source\repos\Conversion1\Conversion1\bin\Debug\Conversion1.pdb
+C:\Users\Mahi\source\repos\Conversion1\Conversion1\obj\Debug\Conversion1.csproj.AssemblyReference.cache
+C:\Users\Mahi\source\repos\Conversion1\Conversion1\obj\Debug\Conversion1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mahi\source\repos\Conversion1\Conversion1\obj\Debug\Conversion1.Form1.resources
+C:\Users\Mahi\source\repos\Conversion1\Conversion1\obj\Debug\Conversion1.Properties.Resources.resources
+C:\Users\Mahi\source\repos\Conversion1\Conversion1\obj\Debug\Conversion1.csproj.GenerateResource.cache
+C:\Users\Mahi\source\repos\Conversion1\Conversion1\obj\Debug\Conversion1.csproj.CoreCompileInputs.cache
+C:\Users\Mahi\source\repos\Conversion1\Conversion1\obj\Debug\Conversion1.exe
+C:\Users\Mahi\source\repos\Conversion1\Conversion1\obj\Debug\Conversion1.pdb
+C:\Users\pattonr\OneDrive - Frisco ISD\C#Subs 2022 BPA\Conversion1\Conversion1\bin\Debug\Conversion1.exe.config
+C:\Users\pattonr\OneDrive - Frisco ISD\C#Subs 2022 BPA\Conversion1\Conversion1\bin\Debug\Conversion1.exe
+C:\Users\pattonr\OneDrive - Frisco ISD\C#Subs 2022 BPA\Conversion1\Conversion1\bin\Debug\Conversion1.pdb
+C:\Users\pattonr\OneDrive - Frisco ISD\C#Subs 2022 BPA\Conversion1\Conversion1\obj\Debug\Conversion1.csproj.AssemblyReference.cache
+C:\Users\pattonr\OneDrive - Frisco ISD\C#Subs 2022 BPA\Conversion1\Conversion1\obj\Debug\Conversion1.csproj.SuggestedBindingRedirects.cache
+C:\Users\pattonr\OneDrive - Frisco ISD\C#Subs 2022 BPA\Conversion1\Conversion1\obj\Debug\Conversion1.Form1.resources
+C:\Users\pattonr\OneDrive - Frisco ISD\C#Subs 2022 BPA\Conversion1\Conversion1\obj\Debug\Conversion1.Properties.Resources.resources
+C:\Users\pattonr\OneDrive - Frisco ISD\C#Subs 2022 BPA\Conversion1\Conversion1\obj\Debug\Conversion1.csproj.GenerateResource.cache
+C:\Users\pattonr\OneDrive - Frisco ISD\C#Subs 2022 BPA\Conversion1\Conversion1\obj\Debug\Conversion1.csproj.CoreCompileInputs.cache
+C:\Users\pattonr\OneDrive - Frisco ISD\C#Subs 2022 BPA\Conversion1\Conversion1\obj\Debug\Conversion1.exe
+C:\Users\pattonr\OneDrive - Frisco ISD\C#Subs 2022 BPA\Conversion1\Conversion1\obj\Debug\Conversion1.pdb
+C:\Users\pattonr\OneDrive - Frisco ISD\C#Subs 2022 BPA\Copies To Work On\Conversion1\Conversion1\bin\Debug\Conversion1.exe.config
+C:\Users\pattonr\OneDrive - Frisco ISD\C#Subs 2022 BPA\Copies To Work On\Conversion1\Conversion1\bin\Debug\Conversion1.exe
+C:\Users\pattonr\OneDrive - Frisco ISD\C#Subs 2022 BPA\Copies To Work On\Conversion1\Conversion1\bin\Debug\Conversion1.pdb
+C:\Users\pattonr\OneDrive - Frisco ISD\C#Subs 2022 BPA\Copies To Work On\Conversion1\Conversion1\obj\Debug\Conversion1.csproj.AssemblyReference.cache
+C:\Users\pattonr\OneDrive - Frisco ISD\C#Subs 2022 BPA\Copies To Work On\Conversion1\Conversion1\obj\Debug\Conversion1.csproj.SuggestedBindingRedirects.cache
+C:\Users\pattonr\OneDrive - Frisco ISD\C#Subs 2022 BPA\Copies To Work On\Conversion1\Conversion1\obj\Debug\Conversion1.Properties.Resources.resources
+C:\Users\pattonr\OneDrive - Frisco ISD\C#Subs 2022 BPA\Copies To Work On\Conversion1\Conversion1\obj\Debug\Conversion1.csproj.GenerateResource.cache
+C:\Users\pattonr\OneDrive - Frisco ISD\C#Subs 2022 BPA\Copies To Work On\Conversion1\Conversion1\obj\Debug\Conversion1.csproj.CoreCompileInputs.cache
+C:\Users\pattonr\OneDrive - Frisco ISD\C#Subs 2022 BPA\Copies To Work On\Conversion1\Conversion1\obj\Debug\Conversion1.exe
+C:\Users\pattonr\OneDrive - Frisco ISD\C#Subs 2022 BPA\Copies To Work On\Conversion1\Conversion1\obj\Debug\Conversion1.pdb
+C:\Users\pattonr\OneDrive - Frisco ISD\C#Subs 2022 BPA\Copies To Work On\Conversion1\Conversion1\obj\Debug\ChamaBasinMiner.MineralEntry.resources

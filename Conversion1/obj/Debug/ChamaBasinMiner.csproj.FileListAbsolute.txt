@@ -1,0 +1,42 @@
+C:\Users\Ryan Patton\OneDrive\FISD\BPA\Jan 2023 for 2024 Exams\C#\Regional\jan 14\C# Regional\Conversion1\bin\Debug\Conversion1.exe.config
+C:\Users\Ryan Patton\OneDrive\FISD\BPA\Jan 2023 for 2024 Exams\C#\Regional\jan 14\C# Regional\Conversion1\bin\Debug\Conversion1.exe
+C:\Users\Ryan Patton\OneDrive\FISD\BPA\Jan 2023 for 2024 Exams\C#\Regional\jan 14\C# Regional\Conversion1\bin\Debug\Conversion1.pdb
+C:\Users\Ryan Patton\OneDrive\FISD\BPA\Jan 2023 for 2024 Exams\C#\Regional\jan 14\C# Regional\Conversion1\obj\Debug\ChamaBasinMiner.csproj.AssemblyReference.cache
+C:\Users\Ryan Patton\OneDrive\FISD\BPA\Jan 2023 for 2024 Exams\C#\Regional\jan 14\C# Regional\Conversion1\obj\Debug\ChamaBasinMiner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ryan Patton\OneDrive\FISD\BPA\Jan 2023 for 2024 Exams\C#\Regional\jan 14\C# Regional\Conversion1\obj\Debug\ChamaBasinMiner.MineralEntry.resources
+C:\Users\Ryan Patton\OneDrive\FISD\BPA\Jan 2023 for 2024 Exams\C#\Regional\jan 14\C# Regional\Conversion1\obj\Debug\Conversion1.Properties.Resources.resources
+C:\Users\Ryan Patton\OneDrive\FISD\BPA\Jan 2023 for 2024 Exams\C#\Regional\jan 14\C# Regional\Conversion1\obj\Debug\ChamaBasinMiner.csproj.GenerateResource.cache
+C:\Users\Ryan Patton\OneDrive\FISD\BPA\Jan 2023 for 2024 Exams\C#\Regional\jan 14\C# Regional\Conversion1\obj\Debug\ChamaBasinMiner.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Patton\OneDrive\FISD\BPA\Jan 2023 for 2024 Exams\C#\Regional\jan 14\C# Regional\Conversion1\obj\Debug\Conversion1.exe
+C:\Users\Ryan Patton\OneDrive\FISD\BPA\Jan 2023 for 2024 Exams\C#\Regional\jan 14\C# Regional\Conversion1\obj\Debug\Conversion1.pdb
+C:\Users\pattonr\OneDrive - Frisco ISD\BPA on One Drive\AAAAAA New Exams made in 2022 for 2024\Jan 2023 for 2024 Exams\C#\Regional\Final Exam\C# Regional\Conversion1\bin\Debug\Conversion1.exe.config
+C:\Users\pattonr\OneDrive - Frisco ISD\BPA on One Drive\AAAAAA New Exams made in 2022 for 2024\Jan 2023 for 2024 Exams\C#\Regional\Final Exam\C# Regional\Conversion1\bin\Debug\Conversion1.exe
+C:\Users\pattonr\OneDrive - Frisco ISD\BPA on One Drive\AAAAAA New Exams made in 2022 for 2024\Jan 2023 for 2024 Exams\C#\Regional\Final Exam\C# Regional\Conversion1\bin\Debug\Conversion1.pdb
+C:\Users\pattonr\OneDrive - Frisco ISD\BPA on One Drive\AAAAAA New Exams made in 2022 for 2024\Jan 2023 for 2024 Exams\C#\Regional\Final Exam\C# Regional\Conversion1\obj\Debug\ChamaBasinMiner.csproj.AssemblyReference.cache
+C:\Users\pattonr\OneDrive - Frisco ISD\BPA on One Drive\AAAAAA New Exams made in 2022 for 2024\Jan 2023 for 2024 Exams\C#\Regional\Final Exam\C# Regional\Conversion1\obj\Debug\ChamaBasinMiner.csproj.SuggestedBindingRedirects.cache
+C:\Users\pattonr\OneDrive - Frisco ISD\BPA on One Drive\AAAAAA New Exams made in 2022 for 2024\Jan 2023 for 2024 Exams\C#\Regional\Final Exam\C# Regional\Conversion1\obj\Debug\ChamaBasinMiner.MineralEntry.resources
+C:\Users\pattonr\OneDrive - Frisco ISD\BPA on One Drive\AAAAAA New Exams made in 2022 for 2024\Jan 2023 for 2024 Exams\C#\Regional\Final Exam\C# Regional\Conversion1\obj\Debug\Conversion1.Properties.Resources.resources
+C:\Users\pattonr\OneDrive - Frisco ISD\BPA on One Drive\AAAAAA New Exams made in 2022 for 2024\Jan 2023 for 2024 Exams\C#\Regional\Final Exam\C# Regional\Conversion1\obj\Debug\ChamaBasinMiner.csproj.GenerateResource.cache
+C:\Users\pattonr\OneDrive - Frisco ISD\BPA on One Drive\AAAAAA New Exams made in 2022 for 2024\Jan 2023 for 2024 Exams\C#\Regional\Final Exam\C# Regional\Conversion1\obj\Debug\ChamaBasinMiner.csproj.CoreCompileInputs.cache
+C:\Users\pattonr\OneDrive - Frisco ISD\BPA on One Drive\AAAAAA New Exams made in 2022 for 2024\Jan 2023 for 2024 Exams\C#\Regional\Final Exam\C# Regional\Conversion1\obj\Debug\Conversion1.exe
+C:\Users\pattonr\OneDrive - Frisco ISD\BPA on One Drive\AAAAAA New Exams made in 2022 for 2024\Jan 2023 for 2024 Exams\C#\Regional\Final Exam\C# Regional\Conversion1\obj\Debug\Conversion1.pdb
+C:\Users\Kabir\Downloads\330 C# Programming\330 C# Programming\C# Regional Student\Conversion1\obj\Debug\ChamaBasinMiner.csproj.AssemblyReference.cache
+C:\Users\Kabir\Downloads\330 C# Programming\330 C# Programming\C# Regional Student\Conversion1\obj\Debug\ChamaBasinMiner.Form1.resources
+C:\Users\Kabir\Downloads\330 C# Programming\330 C# Programming\C# Regional Student\Conversion1\obj\Debug\Conversion1.Properties.Resources.resources
+C:\Users\Kabir\Downloads\330 C# Programming\330 C# Programming\C# Regional Student\Conversion1\obj\Debug\ChamaBasinMiner.csproj.GenerateResource.cache
+C:\Users\Kabir\Downloads\330 C# Programming\330 C# Programming\C# Regional Student\Conversion1\obj\Debug\ChamaBasinMiner.csproj.CoreCompileInputs.cache
+C:\Users\Kabir\Downloads\330 C# Programming\330 C# Programming\C# Regional Student\Conversion1\obj\Debug\Conversion1.exe
+C:\Users\Kabir\Downloads\330 C# Programming\330 C# Programming\C# Regional Student\Conversion1\obj\Debug\Conversion1.pdb
+C:\Users\Kabir\Downloads\330 C# Programming\330 C# Programming\C# Regional Student\Conversion1\bin\Debug\Conversion1.exe.config
+C:\Users\Kabir\Downloads\330 C# Programming\330 C# Programming\C# Regional Student\Conversion1\bin\Debug\Conversion1.exe
+C:\Users\Kabir\Downloads\330 C# Programming\330 C# Programming\C# Regional Student\Conversion1\bin\Debug\Conversion1.pdb
+C:\Users\Kabir\Downloads\330 C# Programming\330 C# Programming\C# Regional Student\00146748\Conversion1\obj\Debug\Conversion1.exe
+C:\Users\Kabir\Downloads\330 C# Programming\330 C# Programming\C# Regional Student\00146748\Conversion1\obj\Debug\Conversion1.pdb
+C:\Users\Kabir\Downloads\330 C# Programming\330 C# Programming\C# Regional Student\00146748\Conversion1\bin\Debug\Conversion1.exe.config
+C:\Users\Kabir\Downloads\330 C# Programming\330 C# Programming\C# Regional Student\00146748\Conversion1\bin\Debug\Conversion1.exe
+C:\Users\Kabir\Downloads\330 C# Programming\330 C# Programming\C# Regional Student\00146748\Conversion1\bin\Debug\Conversion1.pdb
+C:\Users\Kabir\Downloads\330 C# Programming\330 C# Programming\C# Regional Student\00146748\Conversion1\obj\Debug\ChamaBasinMiner.csproj.AssemblyReference.cache
+C:\Users\Kabir\Downloads\330 C# Programming\330 C# Programming\C# Regional Student\00146748\Conversion1\obj\Debug\ChamaBasinMiner.Form1.resources
+C:\Users\Kabir\Downloads\330 C# Programming\330 C# Programming\C# Regional Student\00146748\Conversion1\obj\Debug\Conversion1.Properties.Resources.resources
+C:\Users\Kabir\Downloads\330 C# Programming\330 C# Programming\C# Regional Student\00146748\Conversion1\obj\Debug\ChamaBasinMiner.csproj.GenerateResource.cache
+C:\Users\Kabir\Downloads\330 C# Programming\330 C# Programming\C# Regional Student\00146748\Conversion1\obj\Debug\ChamaBasinMiner.csproj.CoreCompileInputs.cache
